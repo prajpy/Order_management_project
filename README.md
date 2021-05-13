@@ -1,0 +1,2 @@
+# Order_management_project
+Order_management_project using Django framework
